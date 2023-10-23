@@ -1,9 +1,6 @@
 # Learning
 Repo to share resources for cyber development 
 
-Example Interview Questions for Cyber Analysts
-https://brainstation.io/career-guides/cybersecurity-interview-questions
-
 Hack the Box Acadamy & Hack the box
 https://academy.hackthebox.com/
 https://hackthebox.com/
@@ -25,4 +22,7 @@ https://github.com/Hack-with-Github/Awesome-Hacking
 
 Open Source Comp Sci programs:
 https://github.com/ossu/computer-science
+
+Example Interview Questions for Cyber Analysts
+https://brainstation.io/career-guides/cybersecurity-interview-questions
 
