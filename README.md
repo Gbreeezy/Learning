@@ -18,4 +18,11 @@ https://www.cybrary.it/
 Coding Practice:
 https://www.codecademy.com/
 https://www.educative.io/
+https://github.com/Asabeneh/30-Days-Of-Python
+
+Awesome list of hacking resources:
+https://github.com/Hack-with-Github/Awesome-Hacking
+
+Open Source Comp Sci programs:
+https://github.com/ossu/computer-science
 
