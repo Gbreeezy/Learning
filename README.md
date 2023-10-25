@@ -26,3 +26,8 @@ https://github.com/ossu/computer-science
 Example Interview Questions for Cyber Analysts
 https://brainstation.io/career-guides/cybersecurity-interview-questions
 
+Techniques:
+https://www.deepinstinct.com/blog/malware-evasion-techniques-part-1-process-injection-and-manipulation
+https://ryanagood.com/post/tunnel_p1/
+https://thethinkingtester.blogspot.com/2019/08/lets-go-deep-part-i-how-http-requests.html
+https://0x90-1.gitbook.io/sliver/
