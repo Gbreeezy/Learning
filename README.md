@@ -38,3 +38,9 @@ https://Crackmes.one
 
 Way to help pay for schooling:
 https://sfs.opm.gov/
+
+Other Resources  
+https://nationalcyberleague.org/  
+https://linuxjourney.com/  
+https://portswigger.net/  
+
